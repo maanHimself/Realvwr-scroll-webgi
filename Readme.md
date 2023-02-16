@@ -1,4 +1,4 @@
-# WebGi starter project
+# WebGi Example for using ScrollCameraViewPlugin
 A template for a vanilla(no ui-framework) project with webgi engine in typescript using parcel bundler.
 
 About webgi: [https://webgi.xyz/](https://webgi.xyz/)
